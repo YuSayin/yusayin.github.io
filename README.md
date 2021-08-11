@@ -1,6 +1,6 @@
 ## 博客
 
-测试站点：[www.54tianzhisheng.cn](http://www.54tianzhisheng.cn/)
+测试站点：[www.yusayin.tk](http://www.yusayin.tk/)
 
 
 **更新于 2019-03-18**
